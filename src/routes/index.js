@@ -24,9 +24,10 @@ export default function Routes() {
         render={() => (window.location = AUTH_REDIRECT_URL)}
       />
 
-      <Route exact path="/discover">
+      <Route path="/discover">
         <Discover />
       </Route>
+      <Route render={() => <div>404 Not found </div>} />
     </Switch>
   );
 }
