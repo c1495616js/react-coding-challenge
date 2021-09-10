@@ -38,7 +38,7 @@
           l.pathname
             .slice(1)
             .split('/')
-            .slice(pathSegmentsToKeep)
+            .slice(pathSegmentsToKeep - 1)
             .join('/')
             .replace(/&/g, '~and~') +
           (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
