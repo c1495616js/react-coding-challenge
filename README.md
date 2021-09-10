@@ -4,15 +4,19 @@
 
 - [gh-pages](https://c1495616js.github.io/react-coding-challenge)
 
+![](https://i.imgur.com/bObC7vI.png)
+
 ## Setup
 
 ### Setup Spotify App
 
 - Login to [Dashboard](https://developer.spotify.com/dashboard)
 - Click `CREATE AN APP` button.
+
   ![](https://i.imgur.com/git01oE.png)
 
 - Click `EDIT SETTINGS` button to add the `Redirect URIs`
+
   ![](https://i.imgur.com/JVqJV9V.png)
 
 ### Local Development
@@ -20,6 +24,10 @@
 - `cp .env .env.local` (Add your spotify app info here)
 - `npm install`
 - `npm start`
+
+### Deploy to gh-pages
+
+- Add `"homepage": "https://c1495616js.github.io/react-coding-challenge/",` in `package.json` file. (use your own repo link)
 
 ## Refs
 
