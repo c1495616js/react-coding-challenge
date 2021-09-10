@@ -34,8 +34,9 @@
 - [Spotify Auth Document](https://developer.spotify.com/documentation/general/guides/authorization-guide/#implicit-grant-flow)
 - [Spotify Api Document](https://developer.spotify.com/console/get-featured-playlists/)
 - [React-Query useQueries hook](https://react-query.tanstack.com/reference/useQueries)
-
-&nbsp;
+- [Deploy to gh-pages](https://codeburst.io/deploying-a-react-app-using-github-pages-and-github-actions-7fc14d380796)
+- [Deploy to gh-pages](https://cmichel.medium.com/how-to-deploy-a-create-react-app-with-github-actions-5e01f7a7b6b)
+  &nbsp;
 
 # Goals/Outcomes ✨
 
