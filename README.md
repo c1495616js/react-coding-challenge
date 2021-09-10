@@ -36,6 +36,8 @@
 - [React-Query useQueries hook](https://react-query.tanstack.com/reference/useQueries)
 - [Deploy to gh-pages](https://codeburst.io/deploying-a-react-app-using-github-pages-and-github-actions-7fc14d380796)
 - [Deploy to gh-pages](https://cmichel.medium.com/how-to-deploy-a-create-react-app-with-github-actions-5e01f7a7b6b)
+- [gh-pages secret issue](https://stackoverflow.com/questions/66398572/cannot-access-environment-secrets-variables-passing-it-from-gh-pages-to-reactapp)
+
   &nbsp;
 
 # Goals/Outcomes ✨
