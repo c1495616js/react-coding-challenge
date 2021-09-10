@@ -16,7 +16,7 @@ ReactDOM.render(
     <CoreLayout>
       <QueryClientProvider client={queryClient}>
         <Loading />
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
           <Routes />
         </Router>
       </QueryClientProvider>
